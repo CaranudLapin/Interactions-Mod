@@ -1,0 +1,146 @@
+# Traduction réalisée par Caranud (https://steamcommunity.com/id/Caranud/)
+# Version de mod : 0.2 [21/10/25]
+# Version de jeu : 1.0.1 [17/10/25] (testé fonctionnel sur la 1.0.2)
+# Date de la dernière traduction : 16/11/2025
+# Note de Caranud : n’hésitez pas à reprendre cette traduction si je ne suis plus actif et disponible depuis un moment ! :) Je suis également sur le serveur Discord (https://discord.com/invite/HSvuUuA).
+
+[jobType]
+socialJobType=Socialiser
+
+[jobTypeDescription]
+socialJobType=Socialiser dans la colonie
+
+[activities]
+talking_to=Parle à <TARGET>
+
+[hapMod]
+good_chat=J’ai eu une bonne conversation.
+bad_chat=J’ai eu une mauvaise conversation.
+
+[mobmsg]
+
+generic_story_query_0=J'ai déjà vu un écureuil voler d'un arbre à l'autre
+generic_story_query_1=J'ai vu il y a longtemps un serpent à deux têtes !
+generic_story_query_2=J'ai rêvé la nuit dernière que je marchais dans un long couloir sombre, c'était vraiment effrayant.
+generic_story_query_3=Saviez-vous que vous pouvez parfois trouver des coffres disséminés dans le monde ?
+generic_story_query_4=Ma tante a fait une tarte délicieuse, c'était la meilleure tarte que j'aie jamais mangée ! Ma tante me manque…
+
+generic_story_response_0=Ah bon ?
+generic_story_response_1=Vraiment ?
+generic_story_response_2=Eh bien, j’ai rencontré un jour un homme vêtu de noir qui semblait se fondre dans la nuit !
+generic_story_response_3=Quant à moi, j’ai rencontré un grand peintre ! Il m’a beaucoup appris et il avait une coiffure… particulière !
+
+weather_sunny_query_0=Il fait vraiment beau aujourd’hui, n’est-ce pas ? Parfait pour une promenade.
+weather_sunny_query_1=Par un temps pareil, j’ai juste envie de m’asseoir près d’un arbre et de lire un livre.
+weather_sunny_query_2=Avec un temps pareil, j’irais bien m’asseoir sur la plage et regarder les vagues.
+
+weather_sunny_response_0=J’y pensais justement !
+weather_sunny_response_1=Je préfère rester à l'intérieur, la pluie me convient mieux.
+weather_sunny_response_2=Dommage que je n'aie pas le temps de faire ça avec tout le travail que j'ai.
+
+weather_rain_query_0=J'aimerais que cette pluie cesse enfin.
+weather_rain_query_1=Mes vêtements sont trempés par cette satanée pluie.
+weather_rain_query_2=J'adore le crépitement de la pluie.
+
+weather_rain_response_0=Au moins, la pluie est bonne pour les récoltes.
+weather_rain_response_1=Ah oui ? Je crois que je vais aller sauter dans les flaques.
+weather_rain_response_2=Je me demande d'où vient la pluie, peut-être de Poséidon ?
+
+legend_wizard_query_0=J'ai entendu parler d'une légende à propos d'un sorcier tout-puissant qui régnait jadis sur ces îles.
+legend_wizard_query_1=Connaissez-vous le sorcier qui gouvernait ces terres ?
+legend_wizard_query_2=Certains racontent l'histoire d'un puissant sorcier, doté d'un pouvoir quasi infini !
+legend_wizard_query_3=J'ai entendu une rumeur comme quoi un homme aurait atteint la divinité grâce à la magie.
+
+legend_wizard_response_0=Je ne peux que rêver d'un tel pouvoir !
+legend_wizard_response_1=On dit qu'il ne faut pas croire tout ce qu'on entend, mais cela semble vraiment extraordinaire.
+legend_wizard_response_2=Je me demande ce qu'il est devenu et où sont passés ses possessions. Son grimoire devrait être intéressant, non ?
+
+legend_dragon_query_0=Croyez-vous que les dragons existent vraiment ? J’ai toujours trouvé le concept fascinant.
+legend_dragon_query_1=J’ai vu une fois une forme gigantesque traverser le ciel ! Certains disent que c’était un dragon.
+legend_dragon_query_2=J’ai lu un livre sur différentes espèces de dragons, une œuvre de fiction bien sûr. Mais je l’ai trouvée très inspirante.
+
+legend_dragon_response_0=Je me suis toujours demandé si les dragons existaient réellement ou s’ils avaient existé à une époque.
+legend_dragon_response_1=J’ai rêvé que je chevauchais un dragon dans les cieux.
+legend_dragon_response_2=J’ai déjà chevauché un dragon mais personne ne me croit, bien sûr.
+legend_dragon_response_3=On dit que les dragons gardaient farouchement des trésors d’or dans leurs nids.
+
+legend_bad_response_0=Je ne suis pas sûr que ce soit vrai. 
+legend_bad_response_1=Arrête de parler de choses aussi enfantines, <NAME> !
+legend_bad_response_2=Tu devrais arrêter de lire autant, ça te ramollit le cerveau <NAME> !
+legend_bad_response_3=Ne profère pas de telles hérésies !
+
+happy_day_query_0=Je passe une journée formidable ! Et toi, <NAME> ?
+happy_day_query_1=Quelle belle journée, n'est-ce pas, <NAME> ?
+happy_day_query_2=J'espère que demain sera aussi bien qu'aujourd'hui.
+
+happy_day_response_0=J'ai passé une excellente journée.
+happy_day_response_1=J'ai trouvé la journée magnifique, <NOM>.
+happy_day_response_2=J'espère que cette journée durera toujours.
+
+unhappy_day_query_0=J'ai passé une journée difficile. J'espère que demain sera meilleur.
+unhappy_day_query_1=J'ai vraiment hâte d'aller me coucher. Comment s'est passée ta journée, <NOM> ?
+unhappy_day_query_2=J'espère que cette journée s'améliorera. Je n’en peux plus.
+
+unhappy_day_response_0=J'ai passé une journée horrible, moi aussi.
+unhappy_day_response_1=J'aimerais que cette journée se termine déjà.
+unhappy_day_response_2=Je suis tellement fatigué, je veux juste que cette journée soit finie.
+
+food_good_query_0=Mmm, ce repas était délicieux !
+food_good_query_1=J'ai adoré ce que le chef m'a préparé !
+
+food_good_response_0=C'était vraiment de la grande cuisine !
+food_good_response_1=Mon repas était absolument délicieux !
+
+hungry_query_0=J'ai une faim de loup ! C'est quand le prochain repas ?
+hungry_query_1=Franchement, cette vache là-bas commence à me faire envie !
+hungry_query_2=Alors, j'ai entendu dire qu'il y a des gens qui mangent… d'autres personnes !
+hungry_query_3=J'ai tellement faim que je pourrais manger un cheval ! Ou un mouton.
+
+hungry_response_0=Je n'ai pas pu finir mon dernier repas, c'était tout simplement répugnant !
+hungry_response_1=À ce stade, je pourrais manger la terre directement, j'ai tellement faim.
+hungry_response_2=J'aimerais pouvoir manger de l'herbe comme les moutons et les vaches sauvages.
+hungry_response_3=Et moi, j'ai tellement faim que je pourrais manger un ours !
+
+profession_elder_0=Vous les jeunes, vous n'appréciez jamais les petites choses.
+profession_elder_1=À ton âge, je travaillais trois fois plus, <NAME> !
+profession_elder_2=Qu-qu'est-ce que je faisais déjà ?
+profession_elder_3=Ne marche pas sur l'herbe !
+profession_elder_4=Au boulot, <NAME> !
+profession_elder_5=Savais-tu que cette île était autrefois la demeure d'un ancien sorcier ?
+profession_elder_6=QU’EST-CE QUE TU AS DIT, <NAME> ?! PARLE PLUS FORT !!
+
+profession_guard_0=Citoyen.
+profession_guard_1=Heh. Laisse-moi deviner… un gobelin t’a volé ton or.
+profession_guard_2=J’espère que tu ne vas pas traîner, <NOM>.
+profession_guard_3=Fais attention à ne pas fouiller dans les poches des autres, <NOM>.
+
+profession_blacksmith_shop_query_0=Avec un peu d’argent, je pourrais te fabriquer un outil dix fois meilleur que ce vieux truc.
+profession_blacksmith_shop_query_1=Tu as l’air d’avoir besoin d’une amélioration, il se trouve que j’en ai en stock.
+
+profession_blacksmith_shop_response_0=Merci mais je me débrouille très bien.
+profession_blacksmith_shop_response_1=Te connaissant, tu me vendrais bien de la camelote en cuivre.
+profession_blacksmith_shop_response_2=J’aimerais bien, mais je n’ai pas d’argent.
+
+profession_blacksmith_0=Tu as l'air d'avoir besoin d'une meilleure armure, <NAME>.
+profession_blacksmith_1=Ces maudits gobelins n'arrêtent pas de me voler mon or !
+profession_blacksmith_2=J'ai forgé une épée avec des matériaux démoniaques, mais elle finissait toujours par se retrouver entre mes mains.
+profession_blacksmith_3=Évidemment, l'or est plus résistant que le fer. Qu'est-ce qu'on apprend de nos jours ?
+
+profession_guard_armor_good_0=J'aimerais bien voir ces pirates percer cette armure !
+profession_guard_armor_good_1=Regarde-moi, <NAME>, je porte du vrai métal !
+profession_guard_armor_good_2=Ouais, je polis mon armure, elle est belle, non ?
+profession_guard_armor_good_3=Hé ! On ne touche pas, tu risques de laisser une empreinte sur mon armure !
+
+profession_guard_armor_bad_0=J'aimerais avoir une meilleure armure, celle-ci ne fera pas l'affaire.
+profession_guard_armor_bad_1=J'aimerais avoir les moyens de m'acheter une meilleure armure, celle-ci est aussi fine que du papier.
+profession_guard_armor_bad_2=Je n'ai peut-être pas l'armure la plus brillante, mais je peux quand même battre les brutes comme personne.
+
+[unused]
+combat_0=Viens ici !
+combat_1=Tu n'as aucune chance !
+combat_2=Attaque-toi, lâche !
+combat_3=C'est tout ce que tu as ?!
+combat_4=Pour l'honneur et la gloire !
+combat_5=Tu oses te mettre en travers de mon chemin ?!
+combat_6=Je te ferai la peau !
+combat_7=DU SANG POUR LE DIEU DU SANG !!
